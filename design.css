@@ -39,11 +39,10 @@ body{
 #mainBody{
     text-align: center;
 }
+
 .colourTemplate{
     text-align: center;
-    margin: 13% 0 0 36.3%;
-    background-color: white;
-    width: 30%;
+    margin: 10% 13% 3%;
 }
 
 .button{
