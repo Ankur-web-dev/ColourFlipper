@@ -1,0 +1,56 @@
+/* Nav Bar */
+.navBar{
+    background-color: black;
+    padding: 1%;
+}
+
+.logo{
+    text-align: left;
+    color: #edffec;
+    text-decoration: none;
+    font-size: 1.5rem;
+    padding-left: 2%;
+}
+
+.logo:hover{
+    color: #edffec;
+}
+
+.content{
+    text-align: right;
+    color: #edffec;
+    text-decoration: none;
+    font-size: 1rem;
+}
+
+.content:hover{
+    color: #edffec;
+}
+
+.simple{
+    padding: 0 2% 0 77%;
+}
+
+/* Main Body */
+body{
+    background-color: #edffec;
+}
+
+#mainBody{
+    text-align: center;
+}
+.colourTemplate{
+    text-align: center;
+    margin: 13% 0 0 38.3%;
+    background-color: white;
+    width: 23%;
+}
+
+.button{
+    margin-top: 2%;
+}
+
+.reset{
+    margin-left:2% ;
+}
+
